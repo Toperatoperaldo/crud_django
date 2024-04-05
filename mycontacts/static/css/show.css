@@ -87,7 +87,7 @@ body {
 
 .header {
   color:white;
-  background-color: #0B3B39;
+  background-color:purple;
   width: 100%;
   position:fixed;
   text-align: center;
@@ -96,7 +96,7 @@ body {
 .header a:hover {
 	text-decoration:none;
     color:white;
-    background-color: #0B6121;
+    background-color: purple;
     display:block;
     padding: 15px 25px;
 }
@@ -110,6 +110,6 @@ body {
 .header h2 a:hover {
 	text-decoration:none;
     color:white;
-    background-color: #0B3B39;
+    background-color:purple ;
     padding: 0px 0px
 }
