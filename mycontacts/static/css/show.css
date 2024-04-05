@@ -5,7 +5,7 @@ html{
 	font-size: 50px;
 }
 .email{
-	color: #0B6121;
+	color: purple;
 }
 .grid {
   		overflow: hidden;
@@ -76,7 +76,7 @@ body {
   
   width: 100%; 
   height: 95px;
-  background-color: #0b3B39;
+  background-color: purple;
   
   
   position: absolute; /*keeps the footer at the bottom*/
@@ -93,16 +93,6 @@ body {
   text-align: center;
   transition: top .2s ease-in;
 }
-
-.header a {
-	text-decoration:none;
-	display:block;
-    color:white;
-	background: url(image url) center center no-repeat;
-	margin-right: 12px;
-	padding: 15px 25px;
-}
-
 .header a:hover {
 	text-decoration:none;
     color:white;
